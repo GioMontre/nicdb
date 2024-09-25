@@ -1,0 +1,5 @@
+INSERT INTO t_Netadaptconf (caption, IP, MAC, tstamp) VALUES ('[00000001] Realtek PCIe GbE Family Controller', '('192.168.1.10', 'fe80::2336:70c4:57ca:d299')', '18:C0:4D:CE:46:86', '1727302254.16')
+INSERT INTO t_Netadaptconf (caption, IP, MAC, tstamp) VALUES ('[00000010] VirtualBox Host-Only Ethernet Adapter', '('192.168.104.1', 'fe80::cccd:b41c:5bd4:6c46')', '0A:00:27:00:00:08', '1727302254.16')
+INSERT INTO t_Netadaptconf (caption, IP, MAC, tstamp) VALUES ('[00000011] VMware Virtual Ethernet Adapter for VMnet1', '('192.168.117.1', 'fe80::ef2:227b:d9dd:8f98')', '00:50:56:C0:00:01', '1727302254.16')
+INSERT INTO t_Netadaptconf (caption, IP, MAC, tstamp) VALUES ('[00000012] VMware Virtual Ethernet Adapter for VMnet8', '('192.168.120.1', 'fe80::a054:c779:4960:28be')', '00:50:56:C0:00:08', '1727302254.16')
+INSERT INTO t_Netadaptconf (caption, IP, MAC, tstamp) VALUES ('[00000013] VirtualBox Host-Only Ethernet Adapter', '('192.168.185.1', 'fe80::96d0:d097:784b:4a1b')', '0A:00:27:00:00:10', '1727302254.16')
